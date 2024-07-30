@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Black Belt Project",
+"productVersion": "0.1",
+"dataUrl": "Black Hole Dodge.data.unityweb",
+"wasmCodeUrl": "Black Hole Dodge.wasm.code.unityweb",
+"wasmFrameworkUrl": "Black Hole Dodge.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
